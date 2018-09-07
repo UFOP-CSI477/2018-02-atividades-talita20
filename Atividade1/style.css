@@ -1,0 +1,94 @@
+.row {
+    font-family: arial, sans-serif;
+    background-color: #EBEAEA;
+    margin-top: 10px;
+    padding: 280px;
+}
+
+/* CSS Menu */
+ul {
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #444444;
+}
+
+li {
+    float: left;
+}
+
+.active {
+    color: white;
+    background-color: #555555;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: white;
+    background-color: #555555;
+}
+
+/* CSS Formulario*/
+h1 {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+form {
+    font-size: 18px;
+    padding-left: 50px;
+    margin-top: -270px !important;
+}
+
+label {
+    padding: 10px 10px 10px 10px;
+}
+
+input {
+    width: 35%;
+    padding: 0px 0px 5px;
+    margin: 5px 9px 10px 32px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    color: white;
+    background-color: forestgreen;
+    width: 10%;
+}
+
+.pos-radio {
+    width: 100%;
+    padding-left: -10px;
+}
+
+/* CSS Tabela */
+table {
+    padding-left: 50px;
+    margin-top: -270px !important;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #C8CAC7;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #D4F3CD;
+}

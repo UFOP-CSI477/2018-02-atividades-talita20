@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Exercício 1</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+<ul>
+    <li><a href="formulario.html" class="active">Cadastrar</a></li>
+    <li><a href="tabela.html">Listar</a></li>
+    <li><a href="">Sair</a></li>
+</ul>
+<div class="row">
+    <form method="post" action="">
+        <h1>Formulário de Cadastro</h1>
+        <label for="nome">Nome</label>
+        <input type="text" name="nome" placeholder="Nome da pessoa"><br>
+        <label for="endereco">Endereço</label>
+        <input type="text" name="endereco" autocomplete="none"><br>
+        <label for="telefone">Telefone</label>
+        <input type="text" name="telefone" maxlength="16" placeholder="Utilize o formato (099) 1111-2222"><br>
+        <label for="genero">Gênero</label>
+        <div class="pos-radio">
+            <input type="radio" id="feminino" name="genero" value="F">
+            <label for="feminino">Feminino</label><br>
+            <input type="radio" id="masculino" name="genero" value="M">
+            <label for="masculino">Masculino</label><br>
+            <input type="radio" id="naobinario" name="genero" value="N">
+            <label for="naobinario">Não binário</label>
+        </div>
+        <br>
+        <label for="area">Áreas de interesse</label>
+        <div class="pos-radio">
+            <input type="checkbox" id="web" name="area[0]">
+            <label for="web">Desenvolvimento Web</label>
+            <input type="checkbox" id="bd" name="area[1]">
+            <label for="bd">Banco de Dados</label>
+            <input type="checkbox" id="otim" name="area[2]">
+            <label for="otim">Otimização</label>
+        </div>
+        <br>
+        <label for="cidade">Cidade</label>
+        <select name="cidade">
+            <option value="0">Selecione:</option>
+            <option value="1">João Monlevade</option>
+            <option value="2">Itabira</option>
+            <option value="3">Alvinópolis</option>
+            <option value="4" selected>Belo Horizonte</option>
+            <option value="5">Itaúna</option>
+        </select>
+        <br>
+        <label for="usuario">Usuário</label>
+        <input type="text" name="usuario"><br>
+        <label for="senha">Senha</label>
+        <input type="password" name="senha">
+        <br>
+        <button type="submit">Cadastrar</button>
+        <button type="reset">Limpar</button>
+    </form>
+</div>
+</body>
+</html>
