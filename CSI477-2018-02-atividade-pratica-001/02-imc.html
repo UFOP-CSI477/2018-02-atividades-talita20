@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Cálculo do IMC</title>
+    <link rel="stylesheet" type="text/css" href="./bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="./bootstrap/css/style.css">
+    <script src="jquery/jquery-3.3.1.js"></script>
+    <script src="jquery/funcoes.js"></script>
+    <script src="jquery/mask/src/jquery.mask.js"></script>
+</head>
+
+<body class="bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h1>Cálculo do IMC</h1>
+                <form>
+                    <div class="form-group">
+                        <label for="valor1">Altura</label>
+                        <input type="text" class="form-control" id="altura" placeholder="1.70" maxlength="3" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="valor2">Peso</label>
+                        <input type="text" class="form-control" id="peso" placeholder="60" maxlength="5" required>
+                    </div>
+                    <button type="button" class="btn btn-success" onclick="calculoIMC()">Calcular</button>
+                </form>
+                <div id="resultadoIMC">
+
+                </div>
+                <div id="pesoIdeal">
+
+                </div>
+            </div>
+            <div class="col-md-6">
+                <h1>Classificação do IMC para adultos</h1>
+                <table class="table table-striped table-light">
+                    <thead>
+                    <tr>
+                        <th scope="col">IMC</th>
+                        <th scope="col">Classificação</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr id="subnutricao">
+                        <td>Abaixo de 18,5</td>
+                        <td>Subnutrição</td>
+                    </tr>
+                    <tr id="peso_saudavel">
+                        <td>Entre 18,5 e 24,9</td>
+                        <td>Peso saudável</td>
+                    </tr>
+                    <tr id="sobrepeso">
+                        <td>Entre 25,0 e 29,9</td>
+                        <td>Sobrepeso</td>
+                    </tr>
+                    <tr id="obesidade1">
+                        <td>Entre 30,0 e 34,9</td>
+                        <td>Obesidade grau 1</td>
+                    </tr>
+                    <tr id="obesidade2">
+                        <td>Entre 35,0 e 39,9</td>
+                        <td>Obesidade grau 2</td>
+                    </tr>
+                    <tr id="obesidade3">
+                        <td>Acima de 40</td>
+                        <td>Obesidade grau 3</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

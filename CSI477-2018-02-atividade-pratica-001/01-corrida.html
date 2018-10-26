@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Competição de carrinhos de rolimã</title>
+    <link rel="stylesheet" type="text/css" href="./bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="./bootstrap/css/style.css">
+    <script src="jquery/jquery-3.3.1.js"></script>
+    <script src="jquery/funcoes.js"></script>
+    <script src="jquery/mask/src/jquery.mask.js"></script>
+</head>
+
+<body class="bg-light">
+<div class="container">
+    <h1>Competição de carrinhos de rolimã</h1>
+    <form>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label for="valor1" class="col-form-label">Competidor 1</label>
+                    <input type="text" class="form-control" id="comp1" placeholder="Nome do competidor">
+                </div>
+                <div class="form-group">
+                    <label for="valor2" class="col-form-label">Tempo (em segundos)</label>
+                    <input type="number" class="form-control" id="tempo1" placeholder="60">
+                </div>
+                <div class="form-group">
+                    <label for="valor1" class="col-form-label">Competidor 2</label>
+                    <input type="text" class="form-control" id="comp2" placeholder="Nome do competidor">
+                </div>
+                <div class="form-group">
+                    <label for="valor2" class="col-form-label">Tempo (em segundos)</label>
+                    <input type="number" class="form-control" id="tempo2" placeholder="60">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label for="valor1" class="col-form-label">Competidor 3</label>
+                    <input type="text" class="form-control" id="comp3" placeholder="Nome do competidor">
+                </div>
+                <div class="form-group">
+                    <label for="valor2" class="col-form-label">Tempo (em segundos)</label>
+                    <input type="number" class="form-control" id="tempo3" placeholder="60">
+                </div>
+                <div class="form-group">
+                    <label for="valor1" class="col-form-label">Competidor 4</label>
+                    <input type="text" class="form-control" id="comp4" placeholder="Nome do competidor">
+                </div>
+                <div class="form-group">
+                    <label for="valor2" class="col-form-label">Tempo (em segundos)</label>
+                    <input type="number" class="form-control" id="tempo4" placeholder="60">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label for="valor1" class="col-form-label">Competidor 5</label>
+                    <input type="text" class="form-control" id="comp5" placeholder="Nome do competidor">
+                </div>
+                <div class="form-group">
+                    <label for="valor2" class="col-form-label">Tempo (em segundos)</label>
+                    <input type="number" class="form-control" id="tempo5" placeholder="60">
+                </div>
+                <div class="form-group">
+                    <label for="valor1" class="col-form-label">Competidor 6</label>
+                    <input type="text" class="form-control" id="comp6" placeholder="Nome do competidor">
+                </div>
+                <div class="form-group">
+                    <label for="valor2" class="col-form-label">Tempo (em segundos)</label>
+                    <input type="number" class="form-control" id="tempo6" placeholder="60">
+                </div>
+            </div>
+        </div>
+        <button type="button" class="btn btn-success" onclick="calcularResultado();">Resultado</button>
+    </form>
+    <div class="error">
+
+    </div>
+    <div class="data-tables">
+        <h1 align="center">Resultado final da prova</h1>
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th scope="col">Posição</th>
+                <th scope="col">Largada</th>
+                <th scope="col">Competidor(a)</th>
+                <th scope="col">Tempos(s)</th>
+                <th scope="col">Resultado</th>
+            </tr>
+            </thead>
+            <tbody id="tabela">
+            </tbody>
+        </table>
+    </div>
+</div>
+</body>

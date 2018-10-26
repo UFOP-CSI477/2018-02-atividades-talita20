@@ -1,0 +1,16 @@
+.row{
+    color: #1d2124;
+}
+.container{
+    padding-top: 100px;
+}
+.rowCorrida{
+    color: #1d2124;
+    padding-top: -50px;
+}
+h1{
+    font-family: Montserrat, sans-serif;
+    font-size: 30px;
+    color: #4e555b;
+    text-align: center;
+}
