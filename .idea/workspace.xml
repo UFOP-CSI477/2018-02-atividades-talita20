@@ -1,50 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95c0842b-a873-445b-bb17-72631d1b4bb3" name="Default Changelist" comment="" />
+    <list default="true" id="95c0842b-a873-445b-bb17-72631d1b4bb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/classes/classCompras.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/classes/classProdutos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/classes/classUsers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/verifica_login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/body.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/cadastrar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/compras_efetuadas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/dados_editar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/header_administrador.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/header_cliente.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/header_operador.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/index_administrador.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/index_cliente.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/index_operador.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/produto_editar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-001/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-847434173">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.closed" value="24" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.29" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="artisan" value="1" />
           <entry key="css" value="1" />
-          <entry key="html" value="21" />
+          <entry key="env" value="1" />
+          <entry key="example" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="30" />
+          <entry key="js" value="4" />
+          <entry key="php" value="204" />
+          <entry key="sql" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key=".env file" value="2" />
+          <entry key="Blade" value="7" />
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="21" />
+          <entry key="HTML" value="30" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PHP" value="198" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SQL" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="672" />
-          <entry key="html" value="1978" />
+          <entry key="html" value="1980" />
+          <entry key="js" value="34" />
+          <entry key="php" value="7685" />
+          <entry key="sql" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="672" />
-          <entry key="HTML" value="1978" />
+          <entry key="HTML" value="1980" />
+          <entry key="JavaScript" value="34" />
+          <entry key="PHP" value="7685" />
+          <entry key="SQL" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -52,28 +121,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atividade1/home.html">
+        <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state relative-caret-position="160">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Atividade1/tabela.html">
+        <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="268">
+              <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atividade1/formulario.html">
+        <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/verifica_login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="860">
-              <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+            <state relative-caret-position="660">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/classes/classProdutos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2140">
+              <caret line="107" column="21" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -87,6 +165,46 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>debu</find>
+      <find>dist/</find>
+      <find>bower_components/</find>
+      <find>href=&quot;plugins/</find>
+      <find>footer</find>
+      <find>src=&quot;dist/</find>
+      <find>href=&quot;pages/</find>
+      <find>widgets</find>
+      <find>main navi</find>
+      <find>src=&quot;plugins/</find>
+      <find>../</find>
+      <find>src=&quot;bower_components/</find>
+      <find>src=&quot;</find>
+      <find>alt</find>
+      <find>gea</find>
+      <find>href=&quot;../../plugins/</find>
+      <find>src=&quot;../../plugins/</find>
+      <find>ico</find>
+      <find>href=&quot;../../dist/</find>
+      <find>src=&quot;../../dist/</find>
+      <find>alexan</find>
+      <find>4</find>
+      <find>imagem</find>
+      <find>pesqui</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>assets/d/</replace>
+      <replace>assets/bower_components/</replace>
+      <replace>href=&quot;assets/pages/</replace>
+      <replace>src=&quot;assets/bower_components/</replace>
+      <replace>src=&quot;assets/</replace>
+      <replace>href=&quot;assets/plugins/</replace>
+      <replace>src=&quot;assets/plugins/</replace>
+      <replace>href=&quot;assets/dist/</replace>
+      <replace>src=&quot;assets/dist/</replace>
+      <replace>produtos_id</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -104,6 +222,45 @@
         <option value="$PROJECT_DIR$/Atividade1/tabela.html" />
         <option value="$PROJECT_DIR$/Atividade1/home.html" />
         <option value="$PROJECT_DIR$/Atividade1/formulario.html" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/.env" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/config/database.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/app/Models/Produtos.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/app/Models/Compras.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/database/migrations/2018_11_22_000358_create_produtos_table.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/vendor/laravel/framework/src/Illuminate/Support/Fluent.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/database/migrations/2018_11_22_000500_create_compras_table.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/config/app.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/server.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/routes/web.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/docs/script.sql" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/body.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/pages/widgets.html" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/header.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/classes/database.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/footer.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/jquery/funcoes.js" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/produto_editar.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/index_operador.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/index_administrador.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/produto_gerenciar.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/produto_cadastrar.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/classes/classUsers.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/index_cliente.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/dados_editar.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/classes/classCompras.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/compras_efetuadas.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/header_administrador.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/header_cliente.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/header_operador.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/logout.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/classes/classProdutos.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/cadastrar.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/index.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/verifica_login.php" />
+        <option value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/login.php" />
       </list>
     </option>
   </component>
@@ -113,7 +270,41 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-001/jquery/mask/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/bower_components/Flot/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/bower_components/bootstrap-datepicker/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/bower_components/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/bower_components/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/bower_components/ckeditor/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/bower_components/eve-raphael/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/bower_components/ion.rangeSlider/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/bower_components/jquery-knob/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/bower_components/jquery-slimscroll/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/bower_components/jquery-ui/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/bower_components/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/bower_components/select2/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/jquery/mask/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/template/bower_components/Flot/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/template/bower_components/bootstrap-datepicker/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/template/bower_components/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/template/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/template/bower_components/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/template/bower_components/ckeditor/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/template/bower_components/eve-raphael/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/template/bower_components/ion.rangeSlider/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/template/bower_components/jquery-knob/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/template/bower_components/jquery-slimscroll/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/template/bower_components/jquery-ui/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/template/bower_components/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/template/bower_components/select2/package.json" />
+      <path value="$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/template/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1346" />
@@ -134,12 +325,20 @@
             <path>
               <item name="2018-02-atividades-talita20" type="b2602c69:ProjectViewProjectNode" />
               <item name="2018-02-atividades-talita20" type="462c0819:PsiDirectoryNode" />
-              <item name="Atividade1" type="462c0819:PsiDirectoryNode" />
+              <item name="CSI477-2018-02-atividade-pratica-002-003" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2018-02-atividades-talita20" type="b2602c69:ProjectViewProjectNode" />
               <item name="2018-02-atividades-talita20" type="462c0819:PsiDirectoryNode" />
-              <item name="Atividade2" type="462c0819:PsiDirectoryNode" />
+              <item name="CSI477-2018-02-atividade-pratica-002-003" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018-02-atividades-talita20" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-02-atividades-talita20" type="462c0819:PsiDirectoryNode" />
+              <item name="CSI477-2018-02-atividade-pratica-002-003" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,14 +350,19 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prontuario" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\2018-02-atividades-talita20\CSI477-2018-02-atividade-pratica-002-003" />
+      <recent name="C:\xampp\htdocs\2018-02-atividades-talita20\CSI477-2018-02-atividade-pratica-002-003\assets\php\classes" />
       <recent name="C:\xampp\htdocs\2018-02-atividades-talita20\Atividade2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\2018-02-atividades-talita20\CSI477-2018-02-atividade-pratica-002-003\petshop\app\Models" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -192,21 +396,36 @@
       <workItem from="1537567056766" duration="4326000" />
       <workItem from="1537631207936" duration="422000" />
       <workItem from="1537809926601" duration="20000" />
+      <workItem from="1542876952794" duration="2945000" />
+      <workItem from="1542916655074" duration="926000" />
+      <workItem from="1542917786503" duration="3137000" />
+      <workItem from="1542994650498" duration="12853000" />
+      <workItem from="1543069414048" duration="16000" />
+      <workItem from="1543091870864" duration="2553000" />
+      <workItem from="1543104648388" duration="2606000" />
+      <workItem from="1543145944924" duration="23000" />
+      <workItem from="1543184375753" duration="3139000" />
+      <workItem from="1543267845724" duration="1323000" />
+      <workItem from="1543440238587" duration="48000" />
+      <workItem from="1544746143026" duration="5799000" />
+      <workItem from="1544778285309" duration="2428000" />
+      <workItem from="1544808229977" duration="34000" />
+      <workItem from="1544816665341" duration="260000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12341000" />
+    <option name="totallyTimeSpent" value="50431000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2193646" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19213313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -215,13 +434,34 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.76393443" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21028744" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.76393443" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -230,50 +470,262 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/formulario.html" />
-    <entry file="file://$PROJECT_DIR$/tabela.html" />
-    <entry file="file://$PROJECT_DIR$/home.html" />
-    <entry file="file://$PROJECT_DIR$/style.css" />
-    <entry file="file://$PROJECT_DIR$/Atividade 1/home.html" />
-    <entry file="file://$PROJECT_DIR$/Atividade2/tabela.html">
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/.env" />
+    <entry file="file://$PROJECT_DIR$/../prontuario/server.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="51" column="29" lean-forward="true" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+        <state relative-caret-position="280">
+          <caret line="19" lean-forward="true" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade2/formulario.html">
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/server.php" />
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/resources/views/home.blade.php" />
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/resources/views/vendor/adminlte/login.blade.php" />
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/resources/views/vendor/adminlte/master.blade.php" />
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/routes/web.php" />
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/resources/views/page.blade.php" />
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/resources/views/vendor/adminlte/page.blade.php" />
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/petshop/app/Http/Controllers/HomeController.php" />
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/index.html" />
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/pages/widgets.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="53" column="79" selection-start-line="53" selection-start-column="79" selection-end-line="53" selection-end-column="79" />
+        <state relative-caret-position="185">
+          <caret line="1130" column="42" lean-forward="true" selection-start-line="1130" selection-start-column="42" selection-end-line="1130" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade2/home.html">
+    <entry file="file://$USER_HOME$/Downloads/AdminLTE-2.4.5/AdminLTE-2.4.5/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        <state relative-caret-position="1240">
+          <caret line="1271" selection-start-line="1027" selection-start-column="1" selection-end-line="1271" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade1/home.html">
+    <entry file="file://$USER_HOME$/Downloads/AdminLTE-2.4.5/AdminLTE-2.4.5/pages/examples/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="52" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../2018-02-trabalho-final-isabelaoliveira-talitasantos/assets/php/classes/classBebe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../2018-02-trabalho-final-isabelaoliveira-talitasantos/assets/php/classes/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/jquery/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-001/02-imc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/jquery/funcoes.js" />
+    <entry file="file://$PROJECT_DIR$/../distribuidos/Sistema Padaria Pão de Mel/adicionarproduto.php" />
+    <entry file="file://$PROJECT_DIR$/../distribuidos/Sistema de arquivo/assets/php/cadastro.php" />
+    <entry file="file://$PROJECT_DIR$/../distribuidos/adicionarArquivo.php" />
+    <entry file="file://$PROJECT_DIR$/../distribuidos/Sistema pdf/assets/php/adicionararquivo.php" />
+    <entry file="file://$PROJECT_DIR$/../2018-02-trabalho-final-isabelaoliveira-talitasantos/cadastrar_fraldas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="52" column="44" selection-start-line="52" selection-start-column="44" selection-end-line="55" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../2018-02-trabalho-final-isabelaoliveira-talitasantos/assets/php/classes/classFraldas.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="71" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade1/formulario.html">
+    <entry file="file://$PROJECT_DIR$/../outsideFood/cadastrarEdicoes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+        <state relative-caret-position="840">
+          <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade1/tabela.html">
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="900">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/index_administrador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/produto_gerenciar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/produto_editar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/AdminLTE-2.4.5/AdminLTE-2.4.5/pages/layout/top-nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="58" lean-forward="true" selection-end-line="293" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/arquivos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/docs/script.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/classes/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/body.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="518" column="6" selection-start-line="518" selection-start-column="6" selection-end-line="518" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/classes/classUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="84" column="32" selection-start-line="84" selection-start-column="32" selection-end-line="84" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/dados_editar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/index_operador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/index_cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/classes/classCompras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/header_administrador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/header_cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/header_operador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/produto_cadastrar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/compras_efetuadas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="44" column="30" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="44" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/cadastrar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/verifica_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/assets/php/classes/classProdutos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2140">
+          <caret line="107" column="21" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSI477-2018-02-atividade-pratica-002-003/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
         </state>
       </provider>
     </entry>
